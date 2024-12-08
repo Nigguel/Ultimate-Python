@@ -1,0 +1,1 @@
+"""     Clase caja registradora     """
