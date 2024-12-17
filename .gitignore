@@ -13,3 +13,5 @@ db.sqlite3
 # Archivos de configuración sensible
 .venv
 .env
+.pylintrc
+.vscode
